@@ -9,7 +9,7 @@ Login with 01 credentials to see your:
 
 ## Usage
 
-Go to https://viktoriaav.github.io/ \
+Go to https://olha_priadkina.github.io/ \
 or \
 Open main.html in your browser
 
@@ -19,4 +19,4 @@ Open main.html in your browser
 Questions can be found [here](https://github.com/01-edu/public/tree/master/subjects/graphql/audit).
 
 ## Author
-- [Viktoriia/vavstanc](https://01.kood.tech/git/vavstanc)
+- [Olha_Priadkina](https://01.kood.tech/git/Olha_Priadkina)
