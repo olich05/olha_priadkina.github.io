@@ -9,7 +9,7 @@ Login with 01 credentials to see your:
 
 ## Usage
 
-Go to https://olha_priadkina.github.io/ \
+Go to https://olich05.github.io/ \
 or \
 Open main.html in your browser
 
